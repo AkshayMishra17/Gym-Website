@@ -1,0 +1,67 @@
+span{
+    font-weight: bold;
+}
+.sidebar{
+    height: 100vh;
+}
+.nav{
+    margin-top: 40px;
+}
+.card-text{
+    color: wheat;
+    font-weight: bold;
+}
+.card-body{
+    background-color:black;
+}
+.carousel-inner{
+    width: 100vh;
+}
+.h1{
+    display: flex;
+    justify-content: center;
+   font-weight: 400;
+}
+.row{
+    margin-top: 30px;
+}
+.feature-container{
+    background-color: rgb(93, 88, 88);
+    color: wheat;
+    padding: 70px;
+}
+.feature-container > p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.head-container{
+padding: 30px;
+padding-left: 100px;
+
+}
+.img{
+border-radius: 50%;
+}
+.cover-container{
+    background-image: url(images/chris.webp) ;
+    background-size: full;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+   height: 800px;
+}
+.main > h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.main > p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin-bottom: 400px;
+    font-weight: 100;
+}

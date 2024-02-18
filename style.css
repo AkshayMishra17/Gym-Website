@@ -1,0 +1,62 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-image: url(images/gym.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    
+}
+.form-signin{
+    margin-top: 60px;
+    opacity: 80%;
+    margin-left: 50px;
+}
+.mb-4{
+    border-radius: 15px;
+}
+.form-name > input{
+    padding: 10px;
+    width: 200px;
+    border-radius: 10px;
+    padding-left: 35px;
+}
+.form-pass > input{
+    padding: 10px;
+    width: 200px;
+    border-radius: 10px;
+}
+.form-name > input{
+    background-image: url(images/username.jpg);
+    background-repeat:no-repeat;
+    background-position: left;
+    background-size: 30px;
+    }
+    .form-pass > input{
+        background-image: url(images/password.png);
+        background-repeat:no-repeat;
+        background-position: left;
+        background-size: 30px;
+        padding-left: 35px;
+}
+.form-check{
+    padding: 10px;
+    margin-left: -12px;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: lightgray;
+}
+.container{
+    margin-top: 50px;
+    height: 400px;
+    width: 400px;
+    background-color: gray;
+    opacity: 60%;
+    border-radius: 10%;
+}
+.btn-primary{
+    border-width: 3px;
+    border-color: darkgrey;
+    font-size: 15px;
+}
